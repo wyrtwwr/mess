@@ -35,7 +35,7 @@
   width: 34.99vw;
 }
 .mess_block {
-  left: 67vw;
+  left: 62.5vw;
   top: 22vw;
   position: absolute;
   animation: shake2 0.5s;
@@ -256,6 +256,7 @@
 }
 
 .oblako_footer {
+
   position: absolute;
   top: 331vw;
   width: 92vw;
@@ -289,6 +290,7 @@ margin-left: 13vw;
   position: absolute;
   top: 333.7vw;
   left: 3.5vw;
+ 
 }
 
 .board {
@@ -300,6 +302,7 @@ margin-left: 13vw;
 .skate1 {
   width: 29vw;
   position: absolute;
+  left: 0.6vw;
   top: 205vw;
 }
 
@@ -321,5 +324,12 @@ margin-left: 13vw;
   -webkit-animation:spin 3s linear infinite;
   -moz-animation:spin 3s linear infinite;
   animation:spin 3s linear infinite;
+}
+
+.sky {
+  width: 1vw;
+  height: 1vw;
+  position: absolute;
+  top: 342vw;
 }
 }
